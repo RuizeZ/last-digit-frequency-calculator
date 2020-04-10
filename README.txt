@@ -1,0 +1,1 @@
+Calculate the frequency of the last digit of the stock price, and do an empirical study to find out what the last and most freuemt digit is
